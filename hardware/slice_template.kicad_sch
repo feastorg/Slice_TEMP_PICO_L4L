@@ -5441,17 +5441,6 @@
 	)
 	(wire
 		(pts
-			(xy 289.56 77.47) (xy 289.56 83.82)
-		)
-		(stroke
-			(width 0.2032)
-			(type default)
-			(color 221 133 0 1)
-		)
-		(uuid "cbf3675e-7082-4dc1-8e3f-169cca16a9ba")
-	)
-	(wire
-		(pts
 			(xy 157.48 139.7) (xy 161.29 139.7)
 		)
 		(stroke
@@ -8351,5 +8340,9 @@
 				)
 			)
 		)
+	)
+	(no_connect
+		(at 289.56 83.82)
+		(uuid "59483de5-9181-4140-8e71-7fdf53c756de")
 	)
 )
