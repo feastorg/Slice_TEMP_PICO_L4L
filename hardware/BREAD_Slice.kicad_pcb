@@ -13131,4 +13131,5 @@
 		)
 	)
 	(embedded_fonts no)
+	(via (at 110.0 126.9) (size 0.6) (drill 0.3) (layers "F.Cu" "B.Cu") (net "GND") (uuid "6f8ba079-2f5a-445d-9cac-5c596dffba34"))
 )
