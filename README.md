@@ -1,6 +1,6 @@
 # Slice Template
 
-Template for creating BREAD slices. Features Raspberry Pi Pico, small dimensions (70x100mm), 2 layers, and this is the first revision (TEMP_PICO_S2L-r1).
+Template for creating BREAD slices. Features Raspberry Pi Pico, large dimensions (100x145mm), 4 layers, and this is the first revision (TEMP_PICO_L4L-r1).
 
 ## Introduction
 
