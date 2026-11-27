@@ -1,7 +1,7 @@
-title: Slice_TEMP_NANO_S2L-r2 # template: ensure this gets updated when copying
+title: Slice_TEMP_PICO_L4L-r1 # template: ensure this gets updated when copying
 description: > # template: ensure this gets updated when copying
   A FEASTorg project page for a Slice.
-baseurl: "/Slice_TEMP_NANO_S2L-r2" # template: ensure this gets updated when copying
+baseurl: "/Slice_TEMP_PICO_L4L-r1" # template: ensure this gets updated when copying
 url: "https://feastorg.github.io"
 
 remote_theme: pmarsceill/just-the-docs
@@ -45,7 +45,7 @@ defaults:
 # Just the Docs theme settings
 just_the_docs:
   logo:
-    alt: "Slice TEMP NANO S2L r2" # template: ensure this gets updated when copying
+    alt: "Slice TEMP PICO L4L r1" # template: ensure this gets updated when copying
   show_nav_level: 2
   collections:
     enable: false
